@@ -1,0 +1,22 @@
+{
+  "name": "dekatron",
+  "version": "0.1.0",
+  "description": "Dekatron adds developer tools for electron projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsbites/dekatron.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsbites/dekatron/issues"
+  },
+  "homepage": "https://github.com/jsbites/dekatron#readme",
+  "dependencies": {
+    "electron-devtools-installer": "^2.2.3"
+  }
+}
